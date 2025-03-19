@@ -4,7 +4,7 @@ let w = (c.width = window.innerWidth),
   hw = w / 2;
 (hh = h / 2),
   (opts = {
-    strings: ["Mừng","sinh","nhật","Tuấn","ngu"],
+    strings: ["Mừng","sinh","nhật","Tú","ngu"],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
